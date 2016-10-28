@@ -36,4 +36,7 @@ TODOリスト。iPhoneと同期。特にコレである必要性は無い
 
 TTF, OTFなどからWOFFを作成する際に使用
 
+[SelectionToZip](https://github.com/suttang/SelectionToZip)
+
+ファインダーで選択した項目を一括ZIP圧縮
 
