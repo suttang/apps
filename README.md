@@ -1,4 +1,4 @@
-# mac-apps
+# apps
 
 
 ## Documentation
@@ -53,4 +53,8 @@ TTF, OTFなどからWOFFを作成する際に使用
 [SelectionToZip](https://github.com/suttang/SelectionToZip)
 
 ファインダーで選択した項目を一括ZIP圧縮
+
+[Pingyu](http://nukesaq88.github.io/Pngyu/)
+
+ping圧縮
 
