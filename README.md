@@ -4,7 +4,8 @@
 
 [Sequel Pro](https://www.sequelpro.com/)
 
-MySQL client
+MySQL client  
+[環境バックアップレストア](http://www.gigoblog.com/2014/05/19/store-sequel-pro-favorites-and-preferences-in-dropbox/)
 
 
 ## Expander & Archiver
