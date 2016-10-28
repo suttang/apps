@@ -1,5 +1,12 @@
 # mac-apps
 
+## MySQL client
+
+[Sequel Pro](https://www.sequelpro.com/)
+
+MySQL client
+
+
 ## Expander & Archiver
 
 [Unarchiver](https://itunes.apple.com/jp/app/the-unarchiver/id425424353?mt=12)
